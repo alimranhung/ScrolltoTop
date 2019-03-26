@@ -27,6 +27,8 @@ main.js
 	border-radius: 50%;
 	font-size: 20px;
 	line-height: 34px;
+	-webkit-transition:.3s;
+  	transition:.3s;
 }
 #scrollUp:hover {
 	background: #444;
