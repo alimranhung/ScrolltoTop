@@ -50,5 +50,5 @@ main.js
 ```
 
 ``
-Demo 
+Demo Link: https://alimranhung.github.io/ScrolltoTop/
 ``
