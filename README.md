@@ -5,7 +5,7 @@ Simply include the jquery.scrollUp.js file and place the following in the
 head of your document (make sure jQuery is included):
 ```
 
-# Call for html file
+*Call for html file*
 ```
 jquery-1.12.4.min.js
 jquery.scrollUp.js
