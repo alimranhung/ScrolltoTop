@@ -1,15 +1,16 @@
 # ScrolltoTop
 ## How to use
-``
+```
 Simply include the jquery.scrollUp.js file and place the following in the head of your document (make sure jQuery is included):
-``
-``
-Minimum setup
-Call for HTML File
+```
+
+# Minimum setup
+# Call for HTML File
+```
 jquery-1.12.4.min.js,
 jquery.scrollUp.js,
 main.js
-``
+```
 ### Customizable Css
 ```
 #scrollUp {
@@ -34,8 +35,6 @@ main.js
 ```
  (function ($) {
 "use strict";
- // scrollToTop
-alert('Please Scroll Down') 
  $.scrollUp({
 	scrollName: 'scrollUp', // Element ID
 	topDistance: '100', // Distance from top before showing element (px)
@@ -46,7 +45,7 @@ alert('Please Scroll Down')
 	animationOutSpeed: 400, // Animation out speed (ms)
 	scrollText: '<i class="icon-up-open"></i>', // Text for element
 	activeOverlay: false, // Set CSS color to display scrollUp active point, e.g '#00FFFF'
- });
+   }); 
  })(jQuery);
 ```
 
