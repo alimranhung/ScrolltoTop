@@ -12,7 +12,7 @@ main.js
 ``
 ``
 Customizable Css
-#scrollUp {
+# scrollUp {
 	background: #7DBA2F;
 	height: 35px;
 	width: 35px;
@@ -25,18 +25,18 @@ Customizable Css
 	font-size: 20px;
 	line-height: 34px;
 }
-#scrollUp:hover {
+# scrollUp:hover {
 	background: #444;
 }
 ``
 ``
 #
-#Customizable main.js
-#(function ($) {
-#"use strict";
-#// scrollToTop
-#alert('Please Scroll Down')
-#$.scrollUp({
+# Customizable main.js
+# (function ($) {
+# "use strict";
+# // scrollToTop
+# alert('Please Scroll Down')
+# $.scrollUp({
 	scrollName: 'scrollUp', // Element ID
 	topDistance: '100', // Distance from top before showing element (px)
 	topSpeed: 7100, // Speed back to top (ms)
@@ -46,8 +46,8 @@ Customizable Css
 	animationOutSpeed: 400, // Animation out speed (ms)
 	scrollText: '<i class="icon-up-open"></i>', // Text for element
 	activeOverlay: false, // Set CSS color to display scrollUp active point, e.g '#00FFFF'
-#});
-#})(jQuery);
+# });
+# })(jQuery);
 ``
 
 
