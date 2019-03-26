@@ -10,8 +10,8 @@ jquery-1.12.4.min.js,
 jquery.scrollUp.js,
 main.js
 ``
+### Customizable Css
 ```
-Customizable Css
 #scrollUp {
 	background: #7DBA2F;
 	height: 35px;
@@ -30,8 +30,8 @@ Customizable Css
 }
 ```
 
-#
-` Customizable main.js
+## Customizable main.js
+```
  (function ($) {
 "use strict";
  // scrollToTop
@@ -47,9 +47,8 @@ alert('Please Scroll Down')
 	scrollText: '<i class="icon-up-open"></i>', // Text for element
 	activeOverlay: false, // Set CSS color to display scrollUp active point, e.g '#00FFFF'
  });
- `
-# })(jQuery);
-
+ })(jQuery);
+```
 
 ``
 Demo 
