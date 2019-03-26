@@ -12,7 +12,7 @@ main.js
 ``
 ``
 Customizable Css
-# scrollUp {
+#scrollUp {
 	background: #7DBA2F;
 	height: 35px;
 	width: 35px;
@@ -25,7 +25,7 @@ Customizable Css
 	font-size: 20px;
 	line-height: 34px;
 }
-# scrollUp:hover {
+#scrollUp:hover {
 	background: #444;
 }
 ``
