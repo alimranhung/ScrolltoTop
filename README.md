@@ -1,4 +1,5 @@
-# ScrolltoTop
+* ScrolltoTop *
+======
 ## How to use
 ```
 Simply include the jquery.scrollUp.js file and place the following in the 
