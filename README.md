@@ -1,3 +1,5 @@
+**ScrolltoTop**
+
 ## *A jQuery plugin to create a customisable 'Scroll to top' feature that will work with any website*
 ## How to use
 ```
