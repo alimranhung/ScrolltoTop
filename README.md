@@ -49,4 +49,4 @@ main.js
  })(jQuery);
 ```
 
-## Demo Link: https://alimranhung.github.io/ScrolltoTop/
+## *Demo Link: https://alimranhung.github.io/ScrolltoTop/*
